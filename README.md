@@ -1,6 +1,6 @@
 # DataStructuresWithStriver
 
-## Basic Maths
+## [Basic Maths](https://github.com/habib-ahmed-01/DataStructuresWithStriver/tree/main/Basic%20Maths)
 - [Count Digits](https://github.com/habib-ahmed-01/DataStructuresWithStriver/blob/main/Basic%20Maths/CountDigits.cpp)
 - [Reverse a Number](https://github.com/habib-ahmed-01/DataStructuresWithStriver/blob/main/Basic%20Maths/ReverseNumber.cpp)
 - [Check Palindrome](https://github.com/habib-ahmed-01/DataStructuresWithStriver/blob/main/Basic%20Maths/Palindrome.cpp)
@@ -9,7 +9,7 @@
 - [Print all Divisors](https://github.com/habib-ahmed-01/DataStructuresWithStriver/blob/main/Basic%20Maths/PrintDivisors.cpp)
 - [Check for Prime](https://github.com/habib-ahmed-01/DataStructuresWithStriver/blob/main/Basic%20Maths/PrimeNumber.cpp)
 
-## Basic Recursion
+## [Basic Recursion](https://github.com/habib-ahmed-01/DataStructuresWithStriver/tree/main/Basic%20Recursion)
 - [Print name N times using recursion](https://github.com/habib-ahmed-01/DataStructuresWithStriver/blob/main/Basic%20Recursion/printNameNTimes.cpp)
 - [Print 1 to N using recursion](https://github.com/habib-ahmed-01/DataStructuresWithStriver/blob/main/Basic%20Recursion/print1-N.cpp)
 - [Print N to 1 using recursion](https://github.com/habib-ahmed-01/DataStructuresWithStriver/blob/main/Basic%20Recursion/printN-1.cpp)

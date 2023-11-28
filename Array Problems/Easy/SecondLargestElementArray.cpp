@@ -21,6 +21,9 @@ int Secondlargest(int arr[], int arrLen) {
             sLargest = largest;
             largest = arr[i];
         }
+        else if(arr[i]<largest && arr[i]>sLargest){
+            sLargest = arr[i];
+        }
     }
     return sLargest;
 }

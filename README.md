@@ -37,3 +37,4 @@
 - Move Zeros to end - [Link](https://github.com/habib-ahmed-01/DataStructuresWithStriver/blob/main/Array%20Problems/Easy/MoveAllZeroesToEnd.cpp)
 - Linear Search - [Link](https://github.com/habib-ahmed-01/DataStructuresWithStriver/blob/main/Array%20Problems/Easy/LinearSearch.cpp)
 - Union of 2 Sorted Arrays - [Link](https://github.com/habib-ahmed-01/DataStructuresWithStriver/blob/main/Array%20Problems/Easy/LinearSearch.cpp)
+- Intersection of 2 Sorted Arrays - [Link](https://github.com/habib-ahmed-01/DataStructuresWithStriver/blob/main/Array%20Problems/Easy/IntersectionofTwoSortedArray.cpp)
